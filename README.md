@@ -19,3 +19,6 @@ To try the following notebooks you will not need to install anything. Clicking o
 
 [Pre-Trained Models with Keras](http://colab.research.google.com/github/toelt-llc/DSC-Intro-TensorFlow/blob/main/code/Pre-trained-models_with_keras_applications.ipynb)
 
+## Additional Material
+
+In 2022 the 2nd edition of my book ([Applied Deep Learning, a use-case based approach](https://www.apress.com/gp/book/9781484237892)) will come out. During 2021 the web companion will grow and contains a lot of material that you can consult. You can find it at [https://adl.toelt.ai](https://adl.toelt.ai).
