@@ -1,4 +1,4 @@
-# DSC-Intro-TensorFlow
+# DSC Introduction to Keras (TensorFlow) 
 This repository contains the hands-on notebooks for the DSC Introduction to TensorFlow (ETH).
 
 ## Contact
