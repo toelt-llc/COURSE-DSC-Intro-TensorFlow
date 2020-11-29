@@ -3,4 +3,6 @@ This repository contains the hands-on notebooks for the DSC Introduction to Tens
 
 ## Hands-on Jupyter Notebooks
 
-[](http://colab.research.google.com/github/toelt-llc/astroml-hackdays/blob/master/1%20-%20Autoencoders/code/Your%20first%20autoencoder%20with%20Keras.ipynb)
+[Easy Network with Keras](http://colab.research.google.com/github/toelt-llc/DSC-Intro-TensorFlow/blob/main/code/Easy%20NN%20with%20Keras.ipynb)
+
+https://github.com/toelt-llc/DSC-Intro-TensorFlow/blob/main/code/Easy%20NN%20with%20Keras.ipynb
